@@ -1,1 +1,3 @@
-# SIH2019
+# TravelYaAR
+
+Improving travel and tourism in sports industry with the help of AR/VR.
